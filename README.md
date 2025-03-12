@@ -25,7 +25,7 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 
 ---
 
-### 🌟 My Skills
+
 ### 🌟 My Skills
 
 - Programming Languages: ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white), ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white), ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
