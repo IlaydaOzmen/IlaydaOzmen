@@ -21,7 +21,7 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 - ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 📱 Mobile Development
-- ![Swift]()
+![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=swift&logoColor=white)
 
 ---
 
