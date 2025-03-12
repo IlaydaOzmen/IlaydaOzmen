@@ -19,8 +19,6 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 ### 💻 Web Development
 - ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-- ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=dotnet&logoColor=white)
 
 ### 📱 Mobile Development
 - ![Swift]()
@@ -52,7 +50,7 @@ Feel free to explore my repositories and reach out for collaborations:
 
 - **GitHub**: [İlayda's Profile](https://github.com/IlaydaOzmen)
 - **Email**: [İlayda's E-Mail](iilaydaozmen1@gmail.com)
-- **Linkedin**: [İlayda's Profile](https://www.linkedin.com/in/ilayda-%C3%B6zmen42i0616%C3%B67221/)
+- **Linkedin**: [İlayda's Profile](https://www.linkedin.com/in/ilaydaozmenn/)
 
 ---
 
