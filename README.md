@@ -16,9 +16,6 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
   - **SQL** (for database-driven school projects)
 
 - 🌐 **Current Focus**: Exploring the realms of **Web** and **Mobile Development**:
-### 💻 Web Development
-- ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ### 📱 Mobile Development
 - ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=swift&logoColor=white)
