@@ -17,8 +17,6 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 
 - 🌐 **Current Focus**: Exploring the realms of **Web** and **Mobile Development**:
 
-### 📱 Mobile Development
-- ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=swift&logoColor=white)
 
 ---
 
@@ -27,7 +25,6 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 
 - Programming Languages: ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white), ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white), ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 - Web Technologies: ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white), **JavaScript**
-- Mobile: ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?style=flat&logo=swift&logoColor=white)
 - Database: ![SQL](https://img.shields.io/badge/SQL-%230074D9.svg?style=flat&logo=postgresql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234170A1.svg?style=flat&logo=postgresql&logoColor=white)
 
 - Foreign Languages:
