@@ -15,9 +15,6 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
   - **C** & **C#** (department projects)
   - **SQL** (for database-driven school projects)
 
-- 🌐 **Current Focus**: Exploring the realms of **Web** and **Mobile Development**:
-
-
 ---
 
 
