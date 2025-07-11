@@ -11,7 +11,7 @@ I'm İlayda, a Junior at **Pamukkale University's Management Information Systems
 ### 🚀 About Me
 
 - 💻 **Software Journey**: I began with **Python** during high school and expanded my skills at university by diving into:
-  - **Python** (advanced in courses)
+  - **Python** 
   - **C** & **C#** (department projects)
   - **SQL** (for database-driven school projects)
 
