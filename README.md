@@ -53,12 +53,6 @@
 
 ---
 
-## 🌈 Fun Facts
-
-- 🖖 **Star Trek Fan**: I believe in exploring new technological frontiers
-- 📱 **Mobile First**: I love creating apps that make life easier
-- 🎨 **Design Enthusiast**: I enjoy creating beautiful and functional user interfaces
-- 🌟 **Continuous Learner**: Always curious about new technologies and frameworks
 
 ---
 
