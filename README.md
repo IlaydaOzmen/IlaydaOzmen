@@ -17,7 +17,6 @@
 - 💡 I began my coding journey with **Python** during high school
 - 🎯 My goal is to create innovative mobile applications
 - 🌍 My **English** level is B1
-- ⚡ Fun fact: I love Star Trek and believe in exploring new technological frontiers!
 
 ---
 
