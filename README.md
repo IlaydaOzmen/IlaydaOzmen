@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning advanced **Flutter** and **Swift** development
 - 💡 I began my coding journey with **Python** during high school
 - 🎯 My goal is to create innovative mobile applications
-- 🌍 I speak **English** at B1 level
+- 🌍 My **English** level is B1
 - ⚡ Fun fact: I love Star Trek and believe in exploring new technological frontiers!
 
 ---
@@ -45,38 +45,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IlaydaOzmen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlaydaOzmen&layout=compact&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IlaydaOzmen&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
-## 🎯 Current Focus
-
-```dart
-class İlayda extends Developer {
-  String currentFocus = "Mobile App Development";
-  List<String> learningGoals = [
-    "Advanced Flutter Animations",
-    "iOS App Store Deployment", 
-    "Cross-platform Best Practices",
-    "UI/UX Design Principles"
-  ];
-  
-  String motto = "Every day I get closer to my dreams! 🚀";
-}
-```
-
----
-
-##  Fun Facts
+## 🌈 Fun Facts
 
 - 🖖 **Star Trek Fan**: I believe in exploring new technological frontiers
 - 📱 **Mobile First**: I love creating apps that make life easier
@@ -112,10 +89,3 @@ class İlayda extends Developer {
 <div align="center">
   <i>Feel free to explore my repositories and don't hesitate to reach out for collaborations! 🤝</i>
 </div>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjN2ZXgxZXFmZ3I3cG5nZzNxcHhwanRzbGg5NXhnaWU3Nnc2YzhxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" alt="Coding gif" width="400" />
-  <br>
-  <em>"The journey of a thousand codes begins with a single step."</em>
-</div>
-
