@@ -76,7 +76,7 @@ class İlayda extends Developer {
 
 ---
 
-## 🌈 Fun Facts
+##  Fun Facts
 
 - 🖖 **Star Trek Fan**: I believe in exploring new technological frontiers
 - 📱 **Mobile First**: I love creating apps that make life easier
