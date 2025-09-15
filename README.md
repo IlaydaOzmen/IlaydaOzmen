@@ -14,7 +14,7 @@
 🖖 **"Live Long and Code!"**
 
 - 🌱 I'm currently learning advanced **Flutter** and **Swift** development
-- 💡 I began my coding journey with **Python** during high school
+- 💡 I began my coding journey with Python during university.
 - 🎯 My goal is to create innovative mobile applications
 - 🌍 My **English** level is B1
 
