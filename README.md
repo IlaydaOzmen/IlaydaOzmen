@@ -67,11 +67,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IlaydaOzmen&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
-<div align="center">
   
 ### 🌟 "The best way to predict the future is to create it!" 🌟
 
