@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+İlayda!+👋;Mobile+App+Developer+📱;Flutter+%26+Swift+Enthusiast+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,5,10,13&height=230&section=header&text=Hi%20there,%20I'm%20%C4%B0layda!%20%F0%9F%91%8B&fontSize=45&fontAlignY=40&fontColor=ffffff&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%26%20Swift&descSize=22&descAlignY=63&descAlign=50" width="100%" alt="Header Wave" />
 
 <p align="center">
   <em>A passionate <strong>Mobile Developer</strong> from Turkey 🇹🇷 crafting cross-platform and native experiences.</em>
