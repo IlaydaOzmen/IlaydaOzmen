@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+İlayda!+👋;Mobile+App+Developer+📱;Flutter+%26+Swift+Enthusiast+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+İlayda!+👋;Mobile+App+Developer+📱;Flutter+%26+Swift+Enthusiast+🚀" alt="Typing SVG" />
 
 <p align="center">
   <em>A passionate <strong>Mobile Developer</strong> from Turkey 🇹🇷 crafting cross-platform and native experiences.</em>
