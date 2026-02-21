@@ -13,7 +13,6 @@
 Kullanıcı deneyimi yüksek, performanslı mobil uygulamalar geliştirmeye odaklanıyorum.
 * ⚡ **Flutter** ile cross-platform çözümler üretiyorum.
 * 🍎 **Swift** ile yerel iOS ekosistemine hakimim.
-* 🎨 Temiz kod prensipleri ve modern mimarilere (MVVM, Bloc) önem veriyorum.
 
 ### Şu An Ne Üzerinde Çalışıyorum?
 * **ProjectX:** Flutter ile geliştirilen gelişmiş bir e-ticaret uygulaması.
