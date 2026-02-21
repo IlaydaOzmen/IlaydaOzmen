@@ -27,10 +27,4 @@ Kullanıcı deneyimi yüksek, performanslı mobil uygulamalar geliştirmeye odak
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 </p>
 
-### 📈 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilaydaozmen&show_icons=true&theme=tokyonight" alt="İstatistikler" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilaydaozmen&theme=tokyonight" alt="Streak" width="48%" />
-</p>
 
----
