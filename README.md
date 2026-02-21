@@ -57,12 +57,6 @@
 
 ### 📈 Engineering Metrics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=IlaydaOzmen&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlaydaOzmen&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
-
 </div>
 
 <br/>
@@ -73,10 +67,6 @@
 
 ---
 
-### 🏆 Achievements & Contributions
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IlaydaOzmen&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 </div>
 
 <br/>
