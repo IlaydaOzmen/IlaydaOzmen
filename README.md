@@ -75,8 +75,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlaydaOzmen&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&custom_title=Yearly%20Contribution%20Dynamics" width="90%" alt="Activity Graph" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=120&section=footer" width="100%" />
-</div>
