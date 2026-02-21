@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning advanced **Flutter** and **Swift** development
 - 💡 I began my coding journey with Python during university.
 - 🎯 My goal is to create innovative mobile applications
-- 🌍 My **English** level is B1
+
 
 ---
 
@@ -24,8 +24,7 @@
 
 ### 💻 Languages & Frameworks
 <div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
