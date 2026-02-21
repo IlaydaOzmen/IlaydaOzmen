@@ -1,15 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%C4%B0layda+%C3%96zmen">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%C4%B0layda+%C3%96zmen">
-  <img alt="İlayda Özmen" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%C4%B0layda+%C3%96zmen">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%C4%B0layda+%C3%96zmen" alt="İlayda Özmen"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Mobile+Developer+%7C+Flutter+%26+Swift" alt="Mobile Developer | Flutter & Swift"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Mobile+Developer;Flutter+%26+Swift+Developer;Building+Innovative+Apps+%F0%9F%93%B1" alt="Mobile Developer"/>
 
 <br/><br/>
 
@@ -39,43 +35,6 @@
 
 <br/>
 
-## Flagship Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Admin Panel</h3>
-      <p align="center">
-        <a href="https://github.com/IlaydaOzmen/adminPanels">
-          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center">A comprehensive admin dashboard built with Next.js featuring customer management, analytics, finance tracking, and dark mode support.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🇩🇪 German Vocabulary App</h3>
-      <p align="center">
-        <a href="https://github.com/IlaydaOzmen">
-          <img src="https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p align="center">A Flutter mobile app for learning A1 level German vocabulary with flashcards, text-to-speech, and favorites functionality.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hive-FFB300?style=flat-square&logo=hive&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
@@ -85,8 +44,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
 
@@ -94,7 +51,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
