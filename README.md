@@ -1,28 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ilayda!&fontSize=50&fontColor=ffffff&desc=Mobile%20App%20Developer%20|%20Flutter%20and%20Swift&descSize=22&descAlignY=75" width="100%" alt="Header Wave" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ilayda!&fontSize=50&fontColor=ffffff&desc=Mobile%20App%20Developer%20|%20Flutter%20and%20Swift&descSize=22" width="100%" alt="Header Wave" />
+  <br/><br/>
 
-<p align="center">
-  <em>A passionate <strong>Mobile Developer</strong> from Turkey 🇹🇷 crafting cross-platform and native experiences.</em>
-</p>
+  <p align="center">
+    <em>A passionate <strong>Mobile Developer</strong> from Turkey 🇹🇷 crafting cross-platform and native experiences.</em>
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ilaydaozmenn/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/IlaydaOzmen">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=IlaydaOzmen&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ilaydaozmenn/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/IlaydaOzmen">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=IlaydaOzmen&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
 <table width="100%" align="center">
-<tr>
-<td width="55%">
+  <tr>
+    <td width="55%">
 
 ### 💡 About Me
 
@@ -32,8 +32,8 @@
 - 🔭 **Current Goals:** Mastering advanced design patterns and mobile app architectures.
 - 🌍 **Location:** Denizli, Turkey
 
-</td>
-<td width="45%" align="center">
+  </td>
+  <td width="45%" align="center">
 
 ### 🛠️ Tech Stack
 
@@ -49,15 +49,13 @@
   <img src="https://skillicons.dev/icons?i=git,xcode,vscode,github&theme=dark" alt="Tools" />
 </a>
 
-</td>
-</tr>
+  </td>
+  </tr>
 </table>
 
 ---
 
 ### 📈 Engineering Metrics
-
-</div>
 
 <br/>
 
@@ -67,12 +65,8 @@
 
 ---
 
-</div>
-
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlaydaOzmen&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&custom_title=Yearly%20Contribution%20Dynamics" width="90%" alt="Activity Graph" />
 </div>
-
-
